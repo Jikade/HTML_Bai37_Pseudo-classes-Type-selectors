@@ -1,0 +1,14 @@
+/* Chọn thẻ p con xuất hiện đầu tiên */
+p:first-of-type {
+  color: brown;
+}
+
+/* Chọn thẻ p con xuất hiện cuối cùng */
+p:last-of-type {
+  color: violet;
+}
+
+/* Tác động lên thẻ h2 xuất hiện thứ 2 */
+h2:nth-of-type(2) {
+  color: tomato;
+}
